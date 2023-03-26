@@ -1,5 +1,5 @@
 ---
-title: How to catch a pokemon
+title: How to catch a pokemo
 date: August 5, 2021 1:24 PM
 ---
 
