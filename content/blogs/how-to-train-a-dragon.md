@@ -1,5 +1,5 @@
 ---
-title: How to train a dragon
+title: How to train a drago
 date: August 5, 2021 1:24 PM
 ---
 
