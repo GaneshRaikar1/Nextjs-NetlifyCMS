@@ -1,6 +1,6 @@
 ---
 title: How to catch a pokemon
-date: April 3, 2023 5:45 PM
+date: April 3, 2023 5:46 PM
 ---
 # Seriosly?
 
