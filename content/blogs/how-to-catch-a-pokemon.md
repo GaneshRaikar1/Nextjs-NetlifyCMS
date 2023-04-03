@@ -1,5 +1,5 @@
 ---
-title: How to catch a pokemo
+title: How to catch a pokemon
 date: March 26, 2023 6:48 PM
 ---
 # Seriosly?
